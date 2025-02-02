@@ -1,3 +1,3 @@
 import {someFn} from './test'
 
-someFn(777)
+someFn(555)
